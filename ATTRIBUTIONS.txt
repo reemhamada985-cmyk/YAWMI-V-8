@@ -1,0 +1,16 @@
+YAWMY v1.0.7 attributions
+
+Madinah Mushaf page images:
+- tarekeldeeb/madina_images, branch w1024
+- Project description: scanned images from Al Madina Quran, compressed with zopflipng and made available for use via its free CDN.
+- https://github.com/tarekeldeeb/madina_images
+
+Islamic datasets:
+- Islamic App Data by mohammed-2-5
+- https://github.com/mohammed-2-5/islamic-library-data
+
+Adhan audio:
+- "Adhan.ogg" by Aishatu98, Wikimedia Commons, CC0 1.0
+- https://commons.wikimedia.org/wiki/File:Adhan.ogg
+
+The application UI/content code remains the project author's code.
